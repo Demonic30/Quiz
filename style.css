@@ -1,4 +1,7 @@
-
+#fonts{
+    font-family: 'Anton', sans-serif;
+    font-size: 150%;
+}
   .category {
     margin: 20px 0px;
     padding: 0px 30px;
