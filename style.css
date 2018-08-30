@@ -20,10 +20,12 @@
   .category_thumbnail {
     display: inline-block;
     margin: 16px 0px;
+    
   }
 
   .category_title {
     font-size: 12px;
     font-weight: bold;
     padding-top: 10px;
+    
   }
